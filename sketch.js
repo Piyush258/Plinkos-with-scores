@@ -4,7 +4,6 @@ const Bodies = Matter.Bodies;
 const Body = Matter.Body;
  
 var particle;
-var turn = 0;
 var score = 0
 var count = 0;
 
